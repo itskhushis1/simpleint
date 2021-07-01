@@ -16,8 +16,11 @@ void main()
     printf("\n\n\t\t\tAmount = Rs.%7.3f\n ", principal_amt);
 
     printf("\n\n\t\t\tRate = Rs.%7.3f\n ", rate);
+    
     printf("\n\n\t\t\tTime= %d years \n", time);
+    
     printf("\n\n\t\t\tSimple Interest = Rs.%7.3f\n ", simple_interest);
+    
     printf("\n\n\t\t\tCoding is Fun !\n\n\n");
     return 0;
 }
