@@ -9,6 +9,7 @@ void main()
     
     printf("Enter the value of principal amount, rate and time\n\n\n");
     
+    
     scanf("%f%f%d", &principal_amt, &rate, &time);
 
     // considering rate is in percentage
