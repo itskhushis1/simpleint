@@ -5,6 +5,7 @@ void main()
     printf("\n\n\t\tStudytonight - Best place to learn\n\n\n");
     
     float principal_amt, rate, simple_interest;
+    
 
     int time;
     
